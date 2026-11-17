@@ -1,0 +1,8 @@
+{
+  "name": "Remix Hiệp Thông — Phụng Vụ, Tin Tức \u0026 Ngày Sống Công Giáo",
+  "description": "Cổng thông tin và đời sống thiêng liêng Công Giáo: Lịch Phụng Vụ hàng ngày, Tin tức Giáo Hội Việt Nam \u0026 Vatican, Lời Chúa - Thánh ca Thánh lễ, và Nhật ký Ngày sống - Quyết tâm - Hồi tâm riêng tư.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
